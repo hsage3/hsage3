@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @hsage3
+- 👋 Hi, I’m Hannah
 - 👀 I’m interested in anything and everything
-- 🌱 I’m currently learning SQL, R, Greek, Russian, Japanese, Chinese, German, Drumming, Skateboarding, Gardening, Cooking, Mindfullness, Evolutionary Biology, Buddhism, Psychology etc
+- 🕰️ I've worked professionally with formulating paint and explaining quantum computing software. Slightly above average wrt the general population, extreme beginer wrt those industries.
+- 🌱 I’m currently homemaking and trying to find out what I want to do!
 
 <!---
 hsage3/hsage3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
